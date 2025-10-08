@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FightBlightBmore</string>
+    <string name="facebook_app_id">236612338329980</string>
+<string name="fb_login_protocol_scheme">fb236612338329980</string>
+</resources>

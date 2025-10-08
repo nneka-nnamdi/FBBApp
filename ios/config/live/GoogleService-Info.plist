@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624406360589-ue1bq1f7mpofg376vtrh92p6avojte92.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624406360589-ue1bq1f7mpofg376vtrh92p6avojte92</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTBLiWcy6mPTGddhKDy5Vr1hsHihWTFjA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624406360589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fightblightbmore.fbb</string>
+	<key>PROJECT_ID</key>
+	<string>fbbmore-95668</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbbmore-95668.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624406360589:ios:a79b24d8d6d6ffc4bb5b44</string>
+</dict>
+</plist>

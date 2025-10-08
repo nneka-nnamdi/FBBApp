@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "883071014839",
+    "project_id": "fightblightbmore-d1f8c",
+    "storage_bucket": "fightblightbmore-d1f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883071014839:android:953da04b9496f1ec3efa32",
+        "android_client_info": {
+          "package_name": "com.fbb.fightblightbmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883071014839-78shtubvt0ql09lpnh2bsp6ua5vtrnba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbb.fightblightbmore",
+            "certificate_hash": "e373f6c967de6f28a8cadf7bd3c3fb95ebccb3d1"
+          }
+        },
+        {
+          "client_id": "883071014839-nq9qv1rrbo3q0a1agds85gsrl3fct4sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbb.fightblightbmore",
+            "certificate_hash": "dd01042d5a0416434079a56cbefe33f4f36801b1"
+          }
+        },
+        {
+          "client_id": "883071014839-5ro7g2779ki4s9mcsh4svttgnilu6erc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9_xaYiFo3aDq1alCmzys9TgbyZNag7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883071014839-5ro7g2779ki4s9mcsh4svttgnilu6erc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883071014839-0o6tn4mqtgecmvn8gai6lv50pgsvjjd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbb.fightblightbmore",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

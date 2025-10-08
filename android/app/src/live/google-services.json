@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "624406360589",
+    "project_id": "fbbmore-95668",
+    "storage_bucket": "fbbmore-95668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624406360589:android:f06984cf799e0496bb5b44",
+        "android_client_info": {
+          "package_name": "com.fightblightbmore.fbb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624406360589-3pcvfa78ou4i4g31n1m2sg8pu80flrn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fightblightbmore.fbb",
+            "certificate_hash": "8138b82e0dc08a35995f34682a202ea2691a91d7"
+          }
+        },
+        {
+          "client_id": "624406360589-gijmgk8e29a6ovle9o2sq3796okg1doq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fightblightbmore.fbb",
+            "certificate_hash": "0c7658089bf41309d6f0a711cd51426ab2d223b1"
+          }
+        },
+        {
+          "client_id": "624406360589-v3h2nrtt93n8m3ken6c64ai4e345mlic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fightblightbmore.fbb",
+            "certificate_hash": "da0e807b5b2c319fa5c8067069ae1047f57dde14"
+          }
+        },
+        {
+          "client_id": "624406360589-pbtq0p0ao6e86fqqjk6ggbo8a3s9n6q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1Qny44oVKG8NQ4LcA-0JOhNCybu_gAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624406360589-pbtq0p0ao6e86fqqjk6ggbo8a3s9n6q2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624406360589-ue1bq1f7mpofg376vtrh92p6avojte92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fightblightbmore.fbb",
+                "app_store_id": "1581237063"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
